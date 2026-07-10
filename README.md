@@ -20,16 +20,11 @@ I'm passionate about building modern web applications using Python and Django. I
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Python
-- Django
-- HTML5
-- CSS3
-- JavaScript
-- SQLite
-- Git
-- GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,sqlite,git,github,vscode" />
+</p>
 
 ---
 
