@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
 # Hi 👋, I'm Chandru
 
 ## 💻 Python Developer | Django Developer | BCA Student
