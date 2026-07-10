@@ -47,7 +47,7 @@ Travel booking platform with cost calculator.
 
 ## 📫 Connect with Me
 
-- 📧 Email: chandrukmg@gmail.com
+- 📧 Email: schandrukmg@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/schandru-bca/
 - 🌐 GitHub: https://github.com/chandru-sketch
 
