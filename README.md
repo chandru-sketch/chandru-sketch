@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Chandru
 
-<!--
-**chandru-sketch/chandru-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Python Developer | Django Developer | BCA Student
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications using Python and Django. I enjoy solving real-world problems through software development and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 🌱 Currently learning Django, REST APIs, and AI
+- 💻 Interested in Python Backend Development
+- 📍 Tamil Nadu, India
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Django
+- HTML5
+- CSS3
+- JavaScript
+- SQLite
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Interview Coach
+AI-powered interview preparation platform with resume analysis and mock interviews.
+
+### 📅 Daily Task Scheduler
+Task management web application with progress tracking.
+
+### 🚗 Assetto Cars
+Car showroom website built with Django.
+
+### 🌍 Tourist Booking System
+Travel booking platform with cost calculator.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: chandrukmg@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/schandru-bca/
+- 🌐 GitHub: https://github.com/chandru-sketch
+
+---
+
+⭐ Thanks for visiting my profile!
