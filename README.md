@@ -1,5 +1,9 @@
 # Hi 👋, I'm Chandru
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Software+Engineer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 ## 💻 Python Developer | Django Developer | BCA Student
 
 I'm passionate about building modern web applications using Python and Django. I enjoy solving real-world problems through software development and continuously improving my programming skills.
